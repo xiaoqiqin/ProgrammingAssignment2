@@ -1,4 +1,4 @@
-## The following two functions create a special object that stores a matrix
+## The following two functions create a special object that stores a input matrix
 ## and cache its inverse.
 ## Note that we assume the input matrix is always invertable.
 #-------------------------------------------------------------------------------------#
